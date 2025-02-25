@@ -69,9 +69,9 @@ The proliferation of social media and professional networking platforms like Lin
 
 With the expectation that top-tier talent will inevitably apply—whether through referrals, job-sharing, or sheer necessity—companies are less inclined to compromise. The hiring process has become increasingly asymmetrical, with decision-making power concentrated in the hands of employers, creating a one-sided market. Rather than investing in workforce development, businesses now demand unrealistic combinations of expertise, leading to paradoxical expectations, such as requiring "5+ years of experience" for entry-level positions.
 
-### The Hiring Catch-22: Rising Standards, Declining Security
+Meanwhile, social media has also exacerbated the anxiety surrounding the job search. Platforms like LinkedIn and TikTok have become spaces where professionals share their struggles—viral posts frequently highlight experiences of submitting hundreds of applications without a single response. Some job seekers admit to embellishing their résumés or tailoring their online personas to match corporate expectations, illustrating the growing desperation in an increasingly competitive market.
 
-Meanwhile, social media has exacerbated the anxiety surrounding the job search. Platforms like LinkedIn and TikTok have become spaces where professionals share their struggles—viral posts frequently highlight experiences of submitting hundreds of applications without a single response. Some job seekers admit to embellishing their résumés or tailoring their online personas to match corporate expectations, illustrating the growing desperation in an increasingly competitive market.
+### The Hiring Catch-22: Rising Standards, Declining Security
 
 In response to financial insecurity, job seekers are applying en masse to various positions, often without regard for their qualifications, believing that the volume of applications improves their chances of securing employment. This influx of applications has led employers to develop an inflated sense of selectivity, prompting them to raise job requirements and seek highly specialized candidates without offering commensurate compensation. This specialization does little to improve candidates’ chances of better pay, as companies prioritize efficiency driven by market forces.
 
