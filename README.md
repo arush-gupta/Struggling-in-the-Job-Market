@@ -11,4 +11,5 @@ This article explores the growing shift from **human competence**—the ability 
 With job security decreasing and hiring standards rising, companies now prioritize efficiency over stability, leaving workers to navigate an increasingly competitive and uncertain labor market.
 
 📖 **Read the full article:** [Link to Markdown File](https://github.com/arush-gupta/Struggling-in-the-Job-Market/blob/main/Struggling%20in%20the%20Job%20Market.md)
+
 📜 **License:** MIT
