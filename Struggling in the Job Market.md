@@ -1,6 +1,10 @@
 ## Struggling in the Job Market: The Over-Reliance on Robotic Competence, 25th Feb 2025, by Arush Gupta
 
-**TL;DR,** Corporate instability is driving job market instability, creating a mismatch between education and employment, and exacerbating the unintended consequences of social media in job-seeking.
+**TL;DR,** The job market has shifted from valuing human competence (learning and adaptability) to robotic competence (immediate efficiency). Companies, pressured by short-term profitability and investor demands, now prioritize job-ready specialists over long-term employee development.
+
+Corporate instability has eroded job security, with mass layoffs affecting even highly profitable firms. Education’s role in hiring is declining—degrees no longer guarantee jobs, yet elite credentials still act as soft filters.
+
+Social media and global hiring have made recruitment hyper-competitive, leading to paradoxical expectations—requiring extensive experience for entry-level roles while offering little stability or career growth. Hiring has become more about filtering out candidates than fostering mutual investment, leaving workers in a cycle of uncertainty and constant upskilling.
 
 ### The Shift from Human to Robotic Competence in Hiring
 
