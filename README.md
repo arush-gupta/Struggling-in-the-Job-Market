@@ -1,6 +1,6 @@
 # Struggling in the Job Market: The Over-Reliance on Robotic Competence
 
-This article explores the growing shift from **human competence**—the ability to learn and grow within a role—to **robotic competence**, where employees are expected to be immediately productive from day one.
+This article explores, from a complex systems perspective, the growing shift from **human competence**—the ability to learn and grow within a role—to **robotic competence**, where employees are expected to be immediately productive from day one.
 
 ## Key Topics:
 - How **corporate instability** is driving short-term hiring practices.
